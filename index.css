@@ -513,3 +513,8 @@ hr {
   justify-content: center;
   margin-bottom: 20px;
 }
+
+/* Hello World Changes from Git */
+.show {
+  display:flex;
+}
