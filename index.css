@@ -517,4 +517,5 @@ hr {
 /* Hello World Changes from Git */
 .show {
   display:flex;
+  justify-content:baseline;
 }
